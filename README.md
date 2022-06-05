@@ -1,1 +1,1 @@
-# gwo_nutshell
+# GWO in a Nutshell
